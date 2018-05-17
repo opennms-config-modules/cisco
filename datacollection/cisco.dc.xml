@@ -1,5 +1,4 @@
-<?xml version="1.0"?>
-<datacollection-group name="Cisco">
+<datacollection-group xmlns="https://xmlns.opennms.org/xsd/config/datacollection" name="Cisco">
 
     <resourceType name="cbgpPeerAddrFamilyPrefixEntry" label="Cisco BGP Peer / Address Family"
                   resourceLabel="Peer ${subIndex(0,4)}">
